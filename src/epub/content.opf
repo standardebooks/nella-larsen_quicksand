@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/nella-larsen/quicksand</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-12-06T22:53:14Z</dc:date>
+		<meta property="dcterms:modified">2024-12-06T22:53:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,15 +49,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young biracial woman struggles to find her place in a society that refuses to fully accept her, navigating the suffocating racial and social expectations of 1920s America while seeking personal identity and freedom.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Quicksand&lt;/i&gt; opens with Helga Crane, a biracial woman, struggling to fit in at Naxos, a fictional Negro school where she works as a teacher. Dissatisfied, Helga embarks on a journey to find herself, moving through Harlem and Copenhagen in search of a place where she belongs. The novel explores themes of identity and race through the struggles of mixed-race Helga Crane.&lt;/p&gt;
-			&lt;p&gt;As &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Larsen’s&lt;/a&gt; debut novel, Quicksand was published in 1928 in the heart of the Harlem renaissance. Larsen herself was of mixed Danish and African American heritage and the character and struggles of Helga Crane were heavily influenced by Larsen’s own life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Quicksand&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Larsen’s&lt;/a&gt; debut novel, opens with Helga Crane, a biracial woman, struggling to fit in at Naxos, a fictional Negro school where she works as a teacher. Dissatisfied, Helga embarks on a journey to find herself, moving through Harlem and Copenhagen in search of a place where she belongs. The novel explores themes of identity and race through the struggles of the mixed-race protagonist.&lt;/p&gt;
+			&lt;p&gt;The novel was published in 1928 during the heart of the Harlem renaissance. Larsen herself was of mixed Danish and African American heritage, and the character and struggles of Helga Crane were heavily influenced by Larsen’s own life.&lt;/p&gt;
 			&lt;p&gt;Today, the novel continues to be read as a prototypical reflection on what it means to be a part of a community, especially in relation to race, identity, and belonging.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.pgdp.net/c/project.php?id=projectID624808f2a8907</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000536779</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">47126</meta>
+		<meta property="se:reading-ease.flesch">65.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Quicksand_(Larsen_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nella-larsen_quicksand</meta>
 		<dc:creator id="author">Nella Larsen</dc:creator>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
