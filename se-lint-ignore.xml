@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>t-032</code>
+			<reason>The correct abbreviation for "the Y.W.C.A." is `the <abbr>Y</abbr>`; without ending period or quotation marks.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
