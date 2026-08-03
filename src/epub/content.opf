@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/nella-larsen/quicksand</dc:identifier>
 		<dc:date>2024-12-06T22:53:14Z</dc:date>
@@ -49,12 +49,12 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young biracial woman struggles to find her place in a society that refuses to fully accept her, navigating the suffocating racial and social expectations of 1920s America while seeking personal identity and freedom.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young biracial woman struggles to find her place in a society that refuses to fully accept her, navigating the suffocating racial and social expectations of 1920s America while seeking personal identity and freedom.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Quicksand&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Larsen’s&lt;/a&gt; debut novel, opens with Helga Crane, a biracial woman, struggling to fit in at Naxos, a fictional Negro school where she works as a teacher. Dissatisfied, Helga embarks on a journey to find herself, moving through Harlem and Copenhagen in search of a place where she belongs. The novel explores themes of identity and race through the struggles of the mixed-race protagonist.&lt;/p&gt;
 			&lt;p&gt;The novel was published in 1928 during the heart of the Harlem renaissance. Larsen herself was of mixed Danish and African American heritage, and the character and struggles of Helga Crane were heavily influenced by Larsen’s own life.&lt;/p&gt;
 			&lt;p&gt;Today, the novel continues to be read as a prototypical reflection on what it means to be a part of a community, especially in relation to race, identity, and belonging.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.pgdp.net/c/project.php?id=projectID624808f2a8907</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000536779</dc:source>
