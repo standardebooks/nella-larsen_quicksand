@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young biracial woman struggles to find her place in a society that refuses to fully accept her, navigating the suffocating racial and social expectations of 1920s America while seeking personal identity and freedom.</dc:abstract>
+		<meta property="schema:abstract">A young biracial woman struggles to find her place in a society that refuses to fully accept her, navigating the suffocating racial and social expectations of 1920s America while seeking personal identity and freedom.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Quicksand&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/nella-larsen"&gt;Larsen’s&lt;/a&gt; debut novel, opens with Helga Crane, a biracial woman, struggling to fit in at Naxos, a fictional Negro school where she works as a teacher. Dissatisfied, Helga embarks on a journey to find herself, moving through Harlem and Copenhagen in search of a place where she belongs. The novel explores themes of identity and race through the struggles of the mixed-race protagonist.&lt;/p&gt;
 			&lt;p&gt;The novel was published in 1928 during the heart of the Harlem renaissance. Larsen herself was of mixed Danish and African American heritage, and the character and struggles of Helga Crane were heavily influenced by Larsen’s own life.&lt;/p&gt;
