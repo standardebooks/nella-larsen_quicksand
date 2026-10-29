@@ -66,6 +66,7 @@
 		<link href="https://github.com/standardebooks/nella-larsen_quicksand" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Nella Larsen</dc:creator>
 		<meta property="file-as" refines="#author">Larsen, Nella</meta>
+		<meta property="schema:alternateName" refines="#author">Nellallitea Larsen</meta>
 		<link href="https://en.wikipedia.org/wiki/Nella_Larsen" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50036428.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
